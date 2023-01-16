@@ -3,7 +3,7 @@ import { CDBFooter, CDBBox } from 'cdbreact';
 
 export function Footer() {
     return (
-        <CDBFooter className="footer shadow" style={{bottom: 0, width: '100%'}}>
+        <CDBFooter className="footer shadow" style={{ bottom: 0, width: '100%' }}>
 
             <CDBBox display="flex"
                 justifyContent="between"
